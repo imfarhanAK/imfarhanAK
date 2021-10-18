@@ -8,7 +8,6 @@
   <a href="https://instagram.com/alyfarhank" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png" /></a>
   <a href="https://twitter.com/imfarhanAK" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/twitter.png" /></a>
   <a href="https://linkedin.com/in/smartyfk" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" /></a>   
-  <a href="https://github.com/imfarhanAK" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/github.png" /></a>
 </div>
 
 <div>
