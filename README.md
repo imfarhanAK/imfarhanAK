@@ -12,12 +12,12 @@
 
 <div>
   <h3>About Me:</h3> 
-  <p>Hi, I'm Farhan Ali Khan a passionate Software Engineer 👨‍💻, Web Developer 💻, Graphic Designer 🎨, WordPress Expert 👨‍🔬, and Digital Marketer 🔎</p>
+  <p>Hi, I'm Farhan Ali Khan a passionate Software Engineer 👨‍💻, Flutter Developer 💻, Graphic Designer 🎨, WordPress Expert 👨‍🔬, and Machine Learning Expert🔎</p>
   <p>I'm belong from Pakistan’s one of the beautiful city Peshawar. Currently, I'm pursuing Software Engineering 👩‍💻 Degree at <a href="https://attock.comsats.edu.pk/">CUI, Attock Campus</a> 🏫, and in collaboration with friends 👨‍👦‍👦, runs small communities 🏢 <a href="https://facebook.com/imfarhanAK">Farhan Ali Khan</a> and <a href="https://facebook.com/OriginalB4B">B 4 Bachelors</a>.</p>
 </div>  
 
 - 🔭 I’m currently working as Core Team Member at Google Developers Student Club,CUI Attock [gdsc.com](https://gdsc.community.dev/comsats-university-attock-campus/)
-- 🌱 I’m currently polishing my Web Development Skills
+- 🌱 I’m currently polishing my App Development Skills
 - 📫 I'm currently working as a Research Assistant at [Cuiatk](https://attock.comsats.edu.pk/)
 - ⚙️ I love to code in Python
 - 💬 Know about me at [@FarhanKhan](https://www.instagram.com/alyfarhank/)
