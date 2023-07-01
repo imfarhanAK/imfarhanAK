@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi Living Souls 👋, I'm Farhan Ali Khan </h1>
-  <h3>👨‍💻 Software Engineer 💻 Web Developer 🔎 Digital Marketer</h3> 
+  <h3>👨‍💻 Software Engineer 💻 Flutter Developer 🔎 Machine Learning</h3> 
 </div>
 
 <div align="center">
